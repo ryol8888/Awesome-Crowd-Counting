@@ -78,7 +78,8 @@ Abstract recent papers
 
 #### Density estimation-based
 - <a name=""></a>Estimating the number of people in crowded scenes by mid based foreground segmentation and head-shoulder detection.
-- <a name=""></a>CG-DRCN.[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papersSindagi_Pushing_the_Frontiers_of_Unconstrained_Crowd_Counting_New_Dataset_and_ICCV_2019_paper.pdf)]
+- <a name="CG-DRCN"></a> **[CG-DRCN]** Pushing the Frontiers of Unconstrained Crowd Counting: New Dataset and
+Benchmark Method (**ICCV**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sindagi_Pushing_the_Frontiers_of_Unconstrained_Crowd_Counting_New_Dataset_and_ICCV_2019_paper.pdf)]
     - Using residual & uncertainty confidence estimation block.
 
 ## Papers
