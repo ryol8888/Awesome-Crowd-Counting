@@ -65,7 +65,24 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 
+## My Papers
+
+### Summary
+Abstract recent papers
+
+#### Detection-based
+- <a name=""></a>Estimating the number of people in crowded scenes by mid based foreground segmentation and head-shoulder detection. [[paper](http://nlpr-web.ia.ac.cn/2008papers/gjhy/gh26.pdf)]
+
+#### Regression-based
+- <a name=""></a>Multi-source multi-scale counting in extremely dense crowd images.[[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Idrees_Multi-source_Multi-scale_Counting_2013_CVPR_paper.pdf)]
+
+#### Density estimation-based
+- <a name=""></a>Estimating the number of people in crowded scenes by mid based foreground segmentation and head-shoulder detection.
+- <a name=""></a>CG-DRCN.[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papersSindagi_Pushing_the_Frontiers_of_Unconstrained_Crowd_Counting_New_Dataset_and_ICCV_2019_paper.pdf)]
+    - Using residual & uncertainty confidence estimation block.
+
 ## Papers
+
 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
